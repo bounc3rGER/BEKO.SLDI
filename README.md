@@ -1,0 +1,2 @@
+# BEKO.SLDI
+Inventurprogramm
