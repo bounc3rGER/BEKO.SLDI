@@ -1,3 +1,2 @@
 # BEKO.SLDI
-Inventurprogramm
-Kontakt me for details.
+Contact me for details.
